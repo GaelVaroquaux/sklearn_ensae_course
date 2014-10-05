@@ -1,19 +1,15 @@
-EuroScipy 2014 tutorial: Introduction to predictive analytics with pandas and scikit-learn
+ENSAE course on machine learning with scikit-learn
 =============================================================================================
 
 This repository contains files and other info associated with the
-EuroPython 2014 scikit-learn tutorial.
+course I am giving at ENSAE on scikit-learn.
 
-**Instructors**:
-
-* Olivier Grisel [@ogrisel](https://twitter.com/ogrisel) |
-  http://ogrisel.com 
+**Instructor**:
 
 * Gael Varoquaux [@GaelVaroquaux](https://twitter.com/GaelVaroquaux) |
   http://gael-varoquaux.info
 
-**These materials are "almost" finished, but will change, before the
-training session**
+**These materials can change at any time, as I work on the course**
 
 Installation Notes
 ------------------
@@ -36,7 +32,7 @@ Please down in advance the Olivetti and/or the LFW datasets using::
 Reading the training materials
 -------------------------------
 
-**Not all the material will be covered at the EuroScipy training**:
+**Not all the material will be covered at the ENSAE course**:
 there is not enough time available. However, you can follow the material
 by yourself.
 
