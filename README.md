@@ -55,13 +55,13 @@ browser.
 If you don't have the IPython notebook installed, you can browse the
 files on Internet:
 
-* For the instructions without the solutions:
-
-  http://nbviewer.ipython.org/github/GaelVaroquaux/sklearn_pandas_tutorial/tree/master/notebooks/
-
 * For the instructions and the solutions:
 
-  http://nbviewer.ipython.org/github/GaelVaroquaux/sklearn_pandas_tutorial/tree/master/rendered_notebooks
+  http://nbviewer.ipython.org/github/GaelVaroquaux/sklearn_ensae_course/tree/master/rendered_notebooks
+
+* For the instructions without the solutions:
+
+  http://nbviewer.ipython.org/github/GaelVaroquaux/sklearn_ensae_course/tree/master/notebooks/
 
 Downloading the Tutorial Materials
 ----------------------------------
