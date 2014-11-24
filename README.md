@@ -1,4 +1,4 @@
-ENSAE course on machine learning with scikit-learn
+Course on machine learning with scikit-learn
 =============================================================================================
 
 This repository contains files and other info associated with a three
