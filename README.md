@@ -1,8 +1,8 @@
 ENSAE course on machine learning with scikit-learn
 =============================================================================================
 
-This repository contains files and other info associated with the
-course I am giving at ENSAE on scikit-learn.
+This repository contains files and other info associated with a three
+hour course I am on scikit-learn.
 
 **Instructor**:
 
@@ -32,7 +32,7 @@ Please down in advance the Olivetti and/or the LFW datasets using::
 Reading the training materials
 -------------------------------
 
-**Not all the material will be covered at the ENSAE course**:
+**Not all the material will be covered in the course**:
 there is not enough time available. However, you can follow the material
 by yourself.
 
