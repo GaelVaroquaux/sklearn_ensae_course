@@ -81,10 +81,10 @@ Data Downloads
 The data for this tutorial is not included in the repository.  We will be
 using several data sets during the tutorial: most are built-in to
 scikit-learn, which includes code which automatically downloads and
-caches these data.  Because the wireless network at conferences can often
-be spotty, it would be a good idea to download these data sets before
-arriving at the conference. You can do so by using the `fetch_data.py`
-included in the tutorial materials. 
+caches these data.  Because the wireless network at the course venue can
+often be spotty, it would be a good idea to download these data sets
+before arriving. You can do so by using the `fetch_data.py` included in
+the tutorial materials. 
 
 Original material from the Scipy 2013 tutorial
 ----------------------------------------------
