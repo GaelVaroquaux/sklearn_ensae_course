@@ -29,7 +29,7 @@ from matplotlib.backends.backend_tkagg import NavigationToolbar2TkAgg
 from matplotlib.figure import Figure
 from matplotlib.contour import ContourSet
 
-import Tkinter as Tk
+import tkinter as Tk
 import sys
 import numpy as np
 
