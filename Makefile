@@ -1,6 +1,6 @@
 # Makefile used to manage the git repository, not for the tutorial
 
 all:
-	python ipynbhelper.py --check
-	python ipynbhelper.py --render
-	python ipynbhelper.py --clean
+	python3 ipynbhelper.py --check
+	python3 ipynbhelper.py --render
+	python3 ipynbhelper.py --clean
